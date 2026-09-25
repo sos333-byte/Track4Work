@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.track4work'; compileSdk 35
+    defaultConfig { applicationId 'com.track4work'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0' }
+}

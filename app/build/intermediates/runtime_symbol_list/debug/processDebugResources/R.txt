@@ -1,0 +1,4 @@
+int color blue 0x7f010000
+int color blue2 0x7f010001
+int color white 0x7f010002
+int style Theme_Track4Work 0x7f020000

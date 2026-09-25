@@ -1,0 +1,7 @@
+com.track4work.app-pngs-0 /workspaces/Track4Work/app/build/generated/res/pngs/debug
+com.track4work.app-resValues-1 /workspaces/Track4Work/app/build/generated/res/resValues/debug
+com.track4work.app-packageDebugResources-2 /workspaces/Track4Work/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.track4work.app-packageDebugResources-3 /workspaces/Track4Work/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.track4work.app-debug-4 /workspaces/Track4Work/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.track4work.app-debug-5 /workspaces/Track4Work/app/src/debug/res
+com.track4work.app-main-6 /workspaces/Track4Work/app/src/main/res

@@ -1,0 +1,4 @@
+com.track4work:color/white = 0x7f010002
+com.track4work:style/Theme.Track4Work = 0x7f020000
+com.track4work:color/blue2 = 0x7f010001
+com.track4work:color/blue = 0x7f010000

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.track4work.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/workspaces/Track4Work/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "12,47,83",
+                        "endColumns": "34,35,35",
+                        "endOffsets": "46,82,118"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,94,134",
+                        "endColumns": "38,39,39",
+                        "endOffsets": "89,129,169"
+                    }
+                },
+                {
+                    "source": "/workspaces/Track4Work/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "6",
+                        "endColumns": "8",
+                        "endOffsets": "365"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "174",
+                        "endLines": "10",
+                        "endColumns": "8",
+                        "endOffsets": "480"
+                    }
+                }
+            ]
+        }
+    ]
+}

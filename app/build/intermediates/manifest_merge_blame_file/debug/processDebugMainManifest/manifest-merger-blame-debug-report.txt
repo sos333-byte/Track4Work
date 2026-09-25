@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.track4work"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:2:1-9:15
+12        android:allowBackup="true"
+12-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:2:81-107
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Track4Work"
+15-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:2:54-80
+16        android:supportsRtl="true"
+16-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:2:108-134
+17        android:theme="@style/Theme.Track4Work" >
+17-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:2:14-53
+18        <activity
+18-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:3:1-8:12
+19            android:name="com.track4work.MainActivity"
+19-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:3:11-39
+20            android:exported="true"
+20-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:3:77-100
+21            android:screenOrientation="portrait" >
+21-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:3:40-76
+22            <intent-filter>
+22-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:4:1-7:17
+23                <action android:name="android.intent.action.MAIN" />
+23-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:5:1-52
+23-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:5:9-50
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:6:1-60
+25-->/workspaces/Track4Work/app/src/main/AndroidManifest.xml:6:11-58
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
