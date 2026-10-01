@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
         prefs=getSharedPreferences("Track4Work",MODE_PRIVATE);
         super.onCreate(b);
         for(String s:sections) records.put(s,new ArrayList<>());
-        records.get("EquipmentSet").addAll(prefs.getStringSet("Equipment",new HashSet<String>()));
+        records.get("Equipment").addAll(prefs.getStringSet("EquipmentSet",new HashSet<String>()));
         build();
     }
     TextView tv(String s,int size){
